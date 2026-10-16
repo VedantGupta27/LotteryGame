@@ -1,5 +1,7 @@
 # 🎟️ Lottery Ticket Game
 
+🔗 **Live Demo:** [https://lottery-game-bsd4.vercel.app/](https://lottery-game-bsd4.vercel.app/)
+
 A small **React + Vite** project built as a hands-on learning exercise. After going through tutorials and the official docs for React and Vite, I built this Lottery game to put the core concepts into practice: components, props, state with `useState`, and conditional rendering.
 
 > 📚 **Status:** Learning project. Feedback and suggestions are welcome!
