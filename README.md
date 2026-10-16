@@ -78,10 +78,10 @@ src/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/VedantGupta27/LotteryGame>
 
 # Move into the project folder
-cd <your-project-folder>
+cd <react-vite-lottery-game>
 
 # Install dependencies
 npm install
