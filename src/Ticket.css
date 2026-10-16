@@ -1,0 +1,28 @@
+.Ticket {
+  border: 1px solid pink;
+  border-radius: 14px;
+  width: 300px;
+  margin-bottom: 20px; /* Space between separate ticket cards */
+  padding: 20px; 
+  box-sizing: border-box;
+
+  /* This stacks the Title and the Row of numbers vertically */
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+
+.ticket-title {
+  margin: 0 0 15px 0; /* Pushes the numbers down slightly */
+  font-size: 16px;
+  color: #ffffff;
+}
+
+/* New style: This keeps the numbers sitting side-by-side */
+.ticket-row {
+  display: flex;
+  flex-direction: row;      /* Arranges numbers horizontally */
+  justify-content: center;   /* Centers the group of numbers */
+  gap: 15px;                /* Adds spacing between individual numbers */
+  width: 100%;
+}

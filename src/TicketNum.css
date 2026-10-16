@@ -1,0 +1,10 @@
+.TicketNum{
+    font-size: 3rem;
+}
+.container {
+  display: flex;
+  justify-content: center; /* Horizontal center */
+  align-items: center;     /* Vertical center */
+  min-height: 100vh;
+  gap: 10px;
+}
